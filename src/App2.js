@@ -255,7 +255,7 @@ const changeLocation=document.querySelector('#change-location')
                 </div>
 
                 <div className="copyright position-fixed end-0 bottom-0 mb-5 me-5 w-25">
-                    Powered by <a className="link-info" target="_blank" href="https://github.com/azizbekkhabibullayev">Habibulayev Azizbek </a>, all rights reserved
+                    Powered by <a className="link-info" target="_blank" href="./App.js">Habibulayev Azizbek </a>, all rights reserved
                 </div>
             </div>
         </>
